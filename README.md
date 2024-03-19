@@ -1,14 +1,14 @@
-****# Securing_MLOps_Pipeline_with_AWS****
+****#Securing_MLOps_Pipeline_with_AWS****
 This GitHub repo guides users to secure MLOps pipelines with AWS. Detailed steps cover CLI setup, IAM policies, S3 encryption, Lambda automation, and CloudWatch monitoring, empowering users to protect data and ensure operational resilience.
 ## Getting Started
 To get started with securing your MLOps pipeline using AWS, follow these steps:
-**Install AWS CLI**
-# You can install AWS CLI using pip:
-# pip install awscli
+** Install AWS CLI**
+#You can install AWS CLI using pip:
+#pip install awscli
 
 **Configure AWS CLI**
-# Configure AWS CLI with your AWS access key ID, secret access key, default region, and output format:
-# aws configure
+#Configure AWS CLI with your AWS access key ID, secret access key, default region, and output format:
+#aws configure
 
 **Create IAM Policy**: Create an IAM policy to define access controls for your MLOps resources. Replace `your-bucket-name` with your actual bucket name and `your-username` with your IAM username.
 
